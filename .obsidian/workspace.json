@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "be18b467b506dbbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8dffcee1e291279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63898aa72b02d980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/synthesis/软件工程核心知识体系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "软件工程核心知识体系"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "777825bd06dbc1a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ae7aecca77e3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6241881351e79c02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b83863b3be150c24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dba40b86eb70c272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d54c12a34bda4462",
+    "type": "split",
+    "children": [
+      {
+        "id": "2650bff3cdb5cbb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0276a8d4483ed6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/synthesis/软件工程核心知识体系.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "软件工程核心知识体系 的反向链接列表"
+            }
+          },
+          {
+            "id": "27dafe0cf1d4a14a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/synthesis/软件工程核心知识体系.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "软件工程核心知识体系 的出链列表"
+            }
+          },
+          {
+            "id": "812ff80550af2872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ab1945885757f02b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "05d2ad038fc3a591",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/synthesis/软件工程核心知识体系.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "软件工程核心知识体系 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "63898aa72b02d980",
+  "lastOpenFiles": [
+    "wiki/sources/大模型底层原理学习路径摘要.md",
+    "wiki/entities/华为.md",
+    "wiki/entities/3Blue1Brown.md",
+    "wiki/index.md",
+    "wiki/sources/LDM论文摘要.md",
+    "wiki/sources/StyleGAN论文摘要.md",
+    "wiki/sources/DDPM论文摘要.md",
+    "wiki/concepts/背包问题.md",
+    "wiki/sources/ViT论文摘要.md",
+    "wiki/sources/YOLO论文摘要.md",
+    "CLAUDE.md",
+    "wiki/sources/GAN原始论文摘要.md",
+    "wiki/synthesis/深度学习图像模型演进史.md",
+    "wiki/synthesis/软件工程核心知识体系.md"
+  ]
+}
