@@ -11,14 +11,10 @@
             "id": "63898aa72b02d980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/synthesis/软件工程核心知识体系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "软件工程核心知识体系"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/synthesis/软件工程核心知识体系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "软件工程核心知识体系 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/synthesis/软件工程核心知识体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "软件工程核心知识体系 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/synthesis/软件工程核心知识体系.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件工程核心知识体系 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -185,19 +178,41 @@
   },
   "active": "63898aa72b02d980",
   "lastOpenFiles": [
-    "wiki/sources/大模型底层原理学习路径摘要.md",
-    "wiki/entities/华为.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/05-对话循环.md",
     "wiki/entities/3Blue1Brown.md",
     "wiki/index.md",
-    "wiki/sources/LDM论文摘要.md",
-    "wiki/sources/StyleGAN论文摘要.md",
-    "wiki/sources/DDPM论文摘要.md",
-    "wiki/concepts/背包问题.md",
-    "wiki/sources/ViT论文摘要.md",
-    "wiki/sources/YOLO论文摘要.md",
-    "CLAUDE.md",
-    "wiki/sources/GAN原始论文摘要.md",
-    "wiki/synthesis/深度学习图像模型演进史.md",
-    "wiki/synthesis/软件工程核心知识体系.md"
+    "wiki/entities/Anthropic.md",
+    "wiki/entities/Bun.md",
+    "wiki/entities/Ink.md",
+    "wiki/concepts/Prompt Cache.md",
+    "wiki/concepts/上下文压缩.md",
+    "wiki/concepts/Hooks系统.md",
+    "wiki/concepts/Extended Thinking.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/12-Agent-系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/06-上下文管理.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/02-启动优化.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/00-目录与阅读指引.md",
+    "wiki/sources/Claude源码阅读摘要.md",
+    "wiki/sources/Claude-Code-Source-Study摘要.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/25-架构模式总结.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/24-Skill-Plugin开发实战.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/23-Memory系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/22-设计系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/20-API调用与错误恢复.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/21-Ink框架深度定制.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/19-Feature-Flag与编译期优化.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/18-Hooks系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/17-Settings-系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/16-权限系统.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/LICENSE",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-win32/rg.exe",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-linux/rg",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-darwin/rg",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-win32/rg.exe",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-linux/rg",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-darwin/rg",
+    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/audio-capture/x64-linux/audio-capture.node"
   ]
 }

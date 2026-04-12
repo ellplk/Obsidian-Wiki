@@ -56,3 +56,64 @@
 ### 更新后统计
 - wiki/sources/: 22 页（原 10 页 + 新增 12 篇论文摘要）
 - 覆盖时间线：AlexNet(2012) → VGGNet(2015) → ResNet(2016) → YOLO(2016) → ViT(2021) → DDPM(2020) → StyleGAN(2019) → LDM(2022)
+
+---
+
+## 2026-04-12（第三次编译）
+
+### 新资料 Ingest
+
+#### 1. Claude Code 源码阅读笔记
+- 原始文件：`raw/02_编码与技术/技术笔记/Claude源码阅读.md`（~731 行）
+- 关联资料：`raw/02_编码与技术/代码实现/claude-code-sourcemap/`（v2.1.88 source map 还原，非官方研究用途）
+- 内容：Claude Code 技术栈（TypeScript/Bun/React+Ink）、框架层次、工具系统（Tool 接口/buildTool 工厂/GlobTool/执行链路）、查询循环（while(true)+State 状态机/transition 防死循环/4 阶段流程）、Prompt Cache 优化
+
+### 新增 wiki 页面
+
+**sources/**
+- `Claude源码阅读摘要.md` — 架构、工具系统、查询循环核心要点
+
+**entities/**
+- `Claude Code.md` — Anthropic 官方 CLI 工具实体页
+- `Anthropic.md` — AI 安全公司，Claude 系列模型开发方
+
+**concepts/**
+- `MCP协议.md` — Model Context Protocol，标准化 AI 工具扩展协议
+- `Agent工具系统.md` — 工具注册、权限检查、执行链路体系
+
+### 更新后统计
+- wiki/sources/: 23 页（新增 1 篇）
+- wiki/entities/: 12 个（新增 Claude Code、Anthropic）
+- wiki/concepts/: 23 个（新增 MCP 协议、Agent 工具系统）
+- 新增领域：AI Agent 工程、LLM 工具系统
+
+---
+
+## 2026-04-12（第四次编译）
+
+### 新资料 Ingest
+
+#### Claude Code Source Study（25章深度分析）
+- 来源仓库：`raw/02_编码与技术/代码实现/Claude-Code-Source-Study/`（刚 clone）
+- 原仓库：https://github.com/luyao618/Claude-Code-Source-Study
+- 内容：25 篇中文深度源码分析，分 5 大部分，精确到源码文件路径与行号
+  - Part 1 全局架构：项目全景、启动优化、状态管理
+  - Part 2 AI 核心：System Prompt 工程、对话循环、上下文管理、Prompt Cache、Extended Thinking
+  - Part 3 工具/命令/Agent：工具系统、BashTool、命令系统、Agent 系统、内置 Agent、任务系统
+  - Part 4 安全与工程：MCP 实现、权限系统、Settings、Hooks、Feature Flag、API 错误恢复
+  - Part 5 终端 UI：Ink 框架、设计系统、Memory 系统
+
+### 新增 wiki 页面
+
+**sources/**
+- `Claude-Code-Source-Study摘要.md` — 25章目录索引、推荐阅读路线、7个设计模式总结
+
+### 更新页面
+- `wiki/entities/Claude Code.md` — 添加 Source Study 反向链接
+- `wiki/index.md` — 新增 Source Study 入口
+
+### 更新后统计（第四次编译补充）
+- wiki/sources/: 24 页（新增 1 篇）
+- wiki/entities/: 14 个（新增 Ink、Bun）
+- wiki/concepts/: 27 个（新增 Extended Thinking、Hooks系统、上下文压缩、Prompt Cache）
+- 新增领域：AI 推理控制、生命周期钩子、上下文管理、缓存工程

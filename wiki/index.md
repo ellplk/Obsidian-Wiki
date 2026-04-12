@@ -40,6 +40,8 @@
 ### 编码与技术
 - [[sources/软件代码设计笔记摘要|软件代码设计笔记]]
 - [[sources/单元测试笔记摘要|单元测试笔记]]
+- [[sources/Claude源码阅读摘要|Claude Code 源码阅读]] — v2.1.88 架构、工具系统、查询循环深度分析
+- [[sources/Claude-Code-Source-Study摘要|Claude Code Source Study（25章）]] — 全栈技术深度分析，含设计模式提炼
 
 ### 资源与模板
 - [[sources/学术论文阅读Prompt摘要|学术论文阅读Prompt]]
@@ -64,6 +66,12 @@
 - [[entities/Obsidian|Obsidian]]
 - [[entities/pytest|pytest]]
 - [[entities/简悦 SimpRead|简悦 SimpRead]]
+- [[entities/Claude Code|Claude Code]]
+- [[entities/Ink|Ink]] — React 终端 UI 渲染框架
+- [[entities/Bun|Bun]] — 高性能 JS/TS 运行时
+
+### AI 公司
+- [[entities/Anthropic|Anthropic]]
 
 ---
 
@@ -92,6 +100,14 @@
 - [[concepts/单元测试|单元测试]]
 - [[concepts/重构|重构]]
 - [[concepts/面向对象编程|面向对象编程]]
+
+### AI Agent 与工具
+- [[concepts/MCP协议|MCP 协议]] — 标准化 AI 工具扩展协议
+- [[concepts/Agent工具系统|Agent 工具系统]] — 工具注册、权限、执行体系
+- [[concepts/Extended Thinking|Extended Thinking]] — 模型显式推理模式（ultrathink）
+- [[concepts/Hooks系统|Hooks 系统]] — 27 个生命周期事件钩子框架
+- [[concepts/上下文压缩|上下文压缩]] — 多级压缩策略，支持无限长对话
+- [[concepts/Prompt Cache|Prompt Cache]] — 前缀 Token 复用，节省 ~80% 成本
 
 ### 学习方法论
 - [[concepts/双链笔记|双链笔记]]
