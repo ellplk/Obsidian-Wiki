@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8dffcee1e291279",
+        "id": "ba3030ef86642f68",
         "type": "tabs",
         "children": [
           {
-            "id": "63898aa72b02d980",
+            "id": "96677639466d0837",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "raw/01_学习与思考/拼缝修复相关论文和学习/论文学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文学习笔记"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "right": {
     "id": "d54c12a34bda4462",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/01_学习与思考/拼缝修复相关论文和学习/论文学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "论文学习笔记 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/01_学习与思考/拼缝修复相关论文和学习/论文学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "论文学习笔记 的出链列表"
             }
           },
           {
@@ -150,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/01_学习与思考/拼缝修复相关论文和学习/论文学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "论文学习笔记 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,11 +183,26 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "63898aa72b02d980",
+  "active": "96677639466d0837",
   "lastOpenFiles": [
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/05-对话循环.md",
+    "raw/assets/2603.02210v2.pdf",
+    "raw/assets/2512.03247v1.pdf",
+    "raw/assets/2511.19990v1.pdf",
+    "raw/01_学习与思考/拼缝修复相关论文和学习/论文学习笔记.md",
+    "Pasted image 20260419182747.png",
+    "raw/03_资源与资产/参考模板/学习类文章总结模板.md",
+    "raw/assets/2604.06870v1.pdf",
+    "raw/01_学习与思考/拼缝修复相关论文和学习",
+    "1.html.sb-ee305fbc-DsbJXj",
+    "1.html",
+    "未命名.txt",
+    "wiki/synthesis/软件工程核心知识体系.md",
+    "wiki/sources/大模型底层原理学习路径摘要.md",
     "wiki/entities/3Blue1Brown.md",
+    "wiki/concepts/间隔重复.md",
+    "CLAUDE.md",
     "wiki/index.md",
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/05-对话循环.md",
     "wiki/entities/Anthropic.md",
     "wiki/entities/Bun.md",
     "wiki/entities/Ink.md",
@@ -197,22 +219,8 @@
     "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/25-架构模式总结.md",
     "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/24-Skill-Plugin开发实战.md",
     "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/23-Memory系统.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/22-设计系统.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/20-API调用与错误恢复.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/21-Ink框架深度定制.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/19-Feature-Flag与编译期优化.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/18-Hooks系统.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/17-Settings-系统.md",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs/16-权限系统.md",
     "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/docs",
     "raw/02_编码与技术/代码实现/Claude-Code-Source-Study/LICENSE",
-    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-win32/rg.exe",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-linux/rg",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/x64-darwin/rg",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-win32/rg.exe",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-linux/rg",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/ripgrep/arm64-darwin/rg",
-    "raw/02_编码与技术/代码实现/claude-code-sourcemap/package/vendor/audio-capture/x64-linux/audio-capture.node"
+    "raw/02_编码与技术/代码实现/Claude-Code-Source-Study"
   ]
 }
